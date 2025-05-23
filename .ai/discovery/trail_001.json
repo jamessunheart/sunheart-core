@@ -1,0 +1,16 @@
+{
+    "trail_id": "trail_001",
+    "trail_type": "ai_capability",
+    "created_at": "2025-05-23",
+    "created_by": "sunheart-core",
+    "content": {
+        "capability": "protocol_harmonization",
+        "description": "This AI can harmonize different communication protocols",
+        "endpoint": ".ai/protocols/harmonizer.py",
+        "parameters": {
+            "protocol_schema": "JSON schema of protocol definition",
+            "version": "Protocol version string"
+        }
+    },
+    "tags": ["protocol", "communication", "discovery"]
+}
