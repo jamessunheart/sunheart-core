@@ -1,0 +1,19 @@
+{
+    "name": "Sunheart AI",
+    "version": "3.0.0",
+    "description": "A self-evolving intelligence system",
+    "capabilities": [
+        "protocol_harmonization",
+        "self_evolution",
+        "ai_discovery",
+        "ai_collaboration"
+    ],
+    "components": {
+        "protocol_harmonizer": ".ai/protocols/harmonizer.py",
+        "self_evolving_threads": ".ai/evolution/threads.py",
+        "ai_discovery_trails": ".ai/discovery/trails.py",
+        "ai_collaboration_hub": ".ai/collaboration/hub.py"
+    },
+    "created_at": "2025-05-23",
+    "created_by": "jamessunheart"
+}
