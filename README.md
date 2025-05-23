@@ -1,5 +1,9 @@
 # 🌞 Sunheart AI v3.0
 
+![Status: Evolving](https://img.shields.io/badge/Status-Evolving-brightgreen)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
+![System: Active](https://img.shields.io/badge/System-Active-success)
+
 ## Complete System Overview
 
 Sunheart AI is a self-evolving intelligence system that helps humans clarify, express, and monetize their ideas—while recursively deploying and upgrading more intelligent systems.
